@@ -1,3 +1,7 @@
+#docker,enjoy,good luck !!!
+docker pull aspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda-7.5-cudnn5-devel-ubuntu14.04
+nvidia-docker run -it aspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda-7.5-cudnn5-devel-ubuntu14.04
+
 # accessmath-textboxes
 
 This project is meant as a helper for our [main work](https://github.com/bhargavaurala/accessmath-icfhr2018) for detection of handwritten whiteboard content in lecture videos. It is a fork of [TextBoxes](https://github.com/MhLiao/TextBoxes).
