@@ -1,4 +1,4 @@
-＃码头工人，享受，祝你好运！！
+#docker,good luck,enjoy!!!
 
 
 docker pull aspnetcs88 / dlp：myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-1
