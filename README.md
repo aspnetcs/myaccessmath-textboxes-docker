@@ -6,7 +6,9 @@ docker pull aspnetcs88/dlpaspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda7.5-cudn
 
 nvidia-docker run -it aspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-3-voc
 
-cd /root/me/accessmath-textboxes
+cd /root/me/accessmath-textboxes/data/AccessMath`
+./create_data.sh`
+
 
 
 # accessmath-textboxes
