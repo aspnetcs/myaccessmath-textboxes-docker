@@ -1,9 +1,10 @@
 #docker,good luck,enjoy!!!
 
 
-docker pull aspnetcs88 / dlp：myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-1
+docker pull aspnetcs88/dlpaspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-2-voc
 
-nvidia-docker run -it aspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-1
+
+nvidia-docker run -it aspnetcs88/dlp:myaccessmath-textboxes-gpu-cuda7.5-cudnn5-devel-ubuntu14.04-2-voc
 
 cd /root/me/accessmath-textboxes
 
